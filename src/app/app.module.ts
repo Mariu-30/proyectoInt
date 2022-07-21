@@ -10,6 +10,7 @@ import { BannerComponent } from './components/banner/banner.component';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 import { ExpereducComponent } from './components/expereduc/expereduc.component';
 import { ProgresoComponent } from './components/progreso/progreso.component';
+import { ProyectosComponent } from './components/proyectos/proyectos.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ProgresoComponent } from './components/progreso/progreso.component';
     BannerComponent,
     AcercaDeComponent,
     ExpereducComponent,
-    ProgresoComponent
+    ProgresoComponent,
+    ProyectosComponent
   ],
   imports: [
     BrowserModule,
