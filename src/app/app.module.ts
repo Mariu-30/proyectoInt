@@ -9,6 +9,7 @@ import { SocialnetComponent } from './components/socialnet/socialnet.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 import { ExpereducComponent } from './components/expereduc/expereduc.component';
+import { ProgresoComponent } from './components/progreso/progreso.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ExpereducComponent } from './components/expereduc/expereduc.component';
     SocialnetComponent,
     BannerComponent,
     AcercaDeComponent,
-    ExpereducComponent
+    ExpereducComponent,
+    ProgresoComponent
   ],
   imports: [
     BrowserModule,
