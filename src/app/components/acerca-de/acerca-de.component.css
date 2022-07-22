@@ -2,9 +2,9 @@
     padding: 20px;
 }
 div {
-    background-color: black;
+    background-color: #395B64;
     text-align: center;
-    color: white;
+    color: #E7F6F2;
 }
 #nombre {
     font-weight: bold;
@@ -28,6 +28,6 @@ div {
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 470px;
+        top: 500px;
     }
 }
